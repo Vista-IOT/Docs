@@ -1,0 +1,37 @@
+title: Vista-IOT Documentation
+description: Official documentation for Vista-IOT platform - comprehensive guides, API references, and setup instructions.
+baseurl: "/Docs"
+url: "https://vista-iot.github.io"
+
+# Theme
+theme: minima
+
+# Navigation
+header_pages:
+  - getting-started.md
+  - architecture.md
+  - api-reference.md
+  - tutorials.md
+  - contributing.md
+
+# Social links
+minima:
+  social_links:
+    github: Vista-IOT
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+

@@ -9,7 +9,7 @@ permalink: /tutorials/
 Step-by-step tutorials to help you build with Vista IoT Gateway Platform.
 
 <div align="center">
-  <img src="assets/images/logo.jpeg" alt="Vista IoT Logo" width="150" style="margin: 20px 0;"/>
+  <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="Vista IoT Logo" width="150" style="margin: 20px 0;"/>
 </div>
 
 ## Tutorial 1: Building Your First IoT Dashboard

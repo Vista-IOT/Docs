@@ -9,7 +9,7 @@ permalink: /api-reference/
 Complete API documentation for the Vista IoT Gateway platform, including REST endpoints and WebSocket events.
 
 <div align="center">
-  <img src="assets/images/logo.jpeg" alt="Vista IoT Logo" width="150" style="margin: 20px 0;"/>
+  <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="Vista IoT Logo" width="150" style="margin: 20px 0;"/>
 </div>
 
 ## Base URL

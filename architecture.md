@@ -9,7 +9,7 @@ permalink: /architecture/
 Comprehensive overview of the Vista IoT Gateway platform architecture, designed as a self-contained industrial IoT solution.
 
 <div align="center">
-  <img src="assets/images/logo.jpeg" alt="Vista IoT Logo" width="150" style="margin: 20px 0;"/>
+  <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="Vista IoT Logo" width="150" style="margin: 20px 0;"/>
 </div>
 
 ## 🏗️ System Overview

@@ -9,7 +9,7 @@ permalink: /getting-started/
 This guide will help you deploy the Vista IoT Gateway Platform on your Radxa Single Board Computer in minutes.
 
 <div align="center">
-  <img src="assets/images/industry.png" alt="Vista IoT Industrial Setup" width="500" style="margin: 20px 0;"/>
+  <img src="{{ '/assets/images/industry.png' | relative_url }}" alt="Vista IoT Industrial Setup" width="500" style="margin: 20px 0;"/>
 </div>
 
 ## Prerequisites
@@ -21,11 +21,13 @@ This guide will help you deploy the Vista IoT Gateway Platform on your Radxa Sin
 - **Internet connection** for initial setup
 - **Root access** to the system
 
-### Supported Radxa Boards
-- Radxa ROCK 5A/5B/5C
-- Radxa ROCK 4C+
-- Radxa ZERO 3W/3E
-- Radxa CM3/CM5
+### Supported Hardware Platforms
+- **Radxa Cubie A5E** (Primary - Industrial grade)
+- **Banana Pi BPI-F3** (RISC-V alternative)
+- **Radxa ROCK Series** (Development & testing)
+- **Other ARM SBCs** (Community supported)
+
+> 📝 **Detailed hardware information**: See our [Supported Hardware](hardware) page for comprehensive board specifications, performance benchmarks, and selection guidance.
 
 ### Network Requirements
 - Ethernet connection (WiFi optional)

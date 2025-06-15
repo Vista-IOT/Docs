@@ -1,6 +1,10 @@
-# Vista-IOT Documentation
+# Vista IoT Documentation
 
-Official documentation website for the Vista-IOT platform.
+<div align="center">
+  <img src="assets/images/logo.jpeg" alt="Vista IoT Logo" width="200" style="margin: 20px 0;"/>
+</div>
+
+Official documentation website for the **Vista IoT Gateway Platform** - a comprehensive industrial IoT solution for Radxa Single Board Computers.
 
 ## 🌐 Live Site
 
@@ -8,7 +12,7 @@ Official documentation website for the Vista-IOT platform.
 
 ## 📝 About
 
-This repository contains the source code for the Vista-IOT documentation website, built with Jekyll and hosted on GitHub Pages.
+This repository contains the complete documentation for the Vista IoT Gateway Platform, built with Jekyll and hosted on GitHub Pages. The platform provides a self-contained alternative to commercial solutions like Advantech Edge Link Studio.
 
 ## 🚀 Local Development
 

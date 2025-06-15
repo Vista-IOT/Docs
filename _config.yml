@@ -1,5 +1,5 @@
-title: Vista-IOT Documentation
-description: Official documentation for Vista-IOT platform - comprehensive guides, API references, and setup instructions.
+title: Vista IoT Documentation
+description: Official documentation for Vista IoT Gateway Platform - comprehensive guides, API references, and setup instructions for industrial IoT solutions.
 baseurl: "/Docs"
 url: "https://vista-iot.github.io"
 
@@ -27,6 +27,17 @@ plugins:
 # Markdown processor
 markdown: kramdown
 highlighter: rouge
+
+# Mermaid support
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.6.1"
+
+# Enable Mermaid
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Exclude files
 exclude:
